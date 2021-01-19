@@ -11,6 +11,8 @@ This is the most important tab, you build your stealer here (sherlock moment) he
 ```markdown
 Options
 Trace save.dat: Basically just sends all of the growids/passwords your victim typed while the program was running
+Copy to Startup: Boots up the stealer every computer restart
+Get screenshot: Get a screenshot of their pc when they open your stealer
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
