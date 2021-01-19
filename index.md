@@ -1,29 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the Project Eternity Guide
 
-You can use the [editor on GitHub](https://github.com/projecteternitybestproject/Eternity-4-Dummies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this guide to learn how to use eternity, or fix some common errors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Builder tab
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the most important tab, you build your stealer here (sherlock moment) here are some things about it
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Options
+Trace save.dat: Basically just sends all of the growids/passwords your victim typed while the program was running
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
