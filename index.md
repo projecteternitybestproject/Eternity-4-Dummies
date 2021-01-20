@@ -10,7 +10,7 @@ This is the most important tab, you build your stealer here (sherlock moment) he
 Note: Won't cover the webhook id and save webhook id, pretty straight foward
 
 ```markdown
-Options
+Features
 Trace save.dat: Basically just sends all of the growids/passwords your victim typed while the program was running
 Copy to Startup: Boots up the stealer every computer restart
 Get screenshot: Get a screenshot of their pc when they open your stealer
@@ -28,7 +28,7 @@ Stealer name: Just call your stealer whatever you want eg: gabb
 
 ```
 
-<span style="color:red">Common Errors</span>.
+<span style="color:red">Common Errors:</span>
 
 
 ### Jekyll Themes
