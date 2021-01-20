@@ -29,11 +29,16 @@ Stealer name: Just call your stealer whatever you want eg: gabb
 ```
 
 <span style="color:red">Common Errors:</span>
+Before pasting your webhook id and texting me or anyone else make sure you check the send to discord option, thought this would be clear, but a lot of people dm me saying this
+If you notice something isn't working, use debug mode or dm anyone that has Owner/Admin/Helper role. And then dm me so I would include it here :trollface:
 
 
-### Jekyll Themes
+### Accounts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/projecteternitybestproject/Eternity-4-Dummies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Woohoo, you finally built your stealer, now something isn't working or you just don't know what to do!
+
+<span style="color:blue">Part 1</span>How do you use it?
+
 
 ### Support or Contact
 
