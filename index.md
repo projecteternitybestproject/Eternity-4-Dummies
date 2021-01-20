@@ -21,7 +21,7 @@ Icon: Pretty straight foward, all files must be .ico type
 Embed CETrainer: Bind with .ce type of file
 Disable Windows Defender: Disables the default computer antivirus when opened
 Get discord token: Grabs the discord token of the victim so you can login into their discord
-Corrupt Growtopia: Makes Growtopia unplayable
+Corrupt Growtopia: Makes Growtopia unplayable by 
 Get Credentials: Gets all the saved passwords from browsers (google,firefox etc)
 File binder: Makes the binded program to open, but you still get the account
 Debug mode: If something isn't working, use this and try pressing build to see your error
@@ -37,7 +37,7 @@ If you notice something isn't working, use debug mode or dm anyone that has Owne
 
 ### Accounts
 
-Woohoo, you finally built your stealer, now something isn't working or you just don't know what to do!
+Woohoo, you finally built your stealer, now something isn't working or you just don't know to use this tab!
 
 <span style="color:blue">Part 1</span> How do you use it?
 
