@@ -7,6 +7,8 @@ You can use this guide to learn how to use eternity, or fix some common errors
 
 This is the most important tab, you build your stealer here (sherlock moment) here are some things about it
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 We
 
 
@@ -29,7 +31,7 @@ Debug mode: If something isn't working, use this and try pressing build to see y
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-<span style="color:blue">some *blue* text</span>.
+
 
 ### Jekyll Themes
 
