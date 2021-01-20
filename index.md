@@ -13,6 +13,9 @@ Options
 Trace save.dat: Basically just sends all of the growids/passwords your victim typed while the program was running
 Copy to Startup: Boots up the stealer every computer restart
 Get screenshot: Get a screenshot of their pc when they open your stealer
+Send to discord: Sends the account to your webhook in your server MAKE SURE YOU ENABLE THIS BEFORE PASTING YOUR WEBHOOK ID (we will get to this later)
+Icon: Pretty straight foward, all files must be .ico type
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
