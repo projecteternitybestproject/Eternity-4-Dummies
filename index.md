@@ -25,11 +25,11 @@ Get Credentials: Gets all the saved passwords from browsers (google,firefox etc)
 File binder: Makes the binded program to open, but you still get the account
 Debug mode: If something isn't working, use this and try pressing build to see your error
 
-<span style="color:blue">some *blue* text</span>.
 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<span style="color:blue">some *blue* text</span>.
 
 ### Jekyll Themes
 
