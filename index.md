@@ -37,7 +37,7 @@ If you notice something isn't working, use debug mode or dm anyone that has Owne
 
 Woohoo, you finally built your stealer, now something isn't working or you just don't know what to do!
 
-<span style="color:blue">Part 1</span>How do you use it?
+<span style="color:blue">Part 1</span> How do you use it?
 
 
 ### Support or Contact
