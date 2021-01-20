@@ -29,7 +29,7 @@ Stealer name: Just call your stealer whatever you want eg: gabb
 ```
 
 <span style="color:red">Common Errors:</span>
-Before pasting your webhook id and texting me or anyone else make sure you check the send to discord option, thought this would be clear, but a lot of people dm me saying this
+Before pasting your webhook id and texting me or anyone else make sure you check the send to discord option, thought this would be clear, but a lot of people dm me saying this.  
 If you notice something isn't working, use debug mode or dm anyone that has Owner/Admin/Helper role. And then dm me so I would include it here :trollface:
 
 
