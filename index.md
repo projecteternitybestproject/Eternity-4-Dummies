@@ -25,11 +25,10 @@ File binder: Makes the binded program to open, but you still get the account
 Debug mode: If something isn't working, use this and try pressing build to see your error
 Fake message: When the victim opens your stealer, he gets a fake error with your text
 Stealer name: Just call your stealer whatever you want eg: gabb
- 
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<span style="color:red">Common Errors</span>.
 
 
 ### Jekyll Themes
