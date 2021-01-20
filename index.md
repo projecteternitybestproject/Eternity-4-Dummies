@@ -1,6 +1,6 @@
 ## Welcome to the Project Eternity Guide
 
-You can use this guide to learn how to use eternity, or fix some common errors
+You can use this guide to learn how to use eternity, or fix some common errors. pakruojo gatves blogiukas#6943 wrote this, and skidded the most of the web code, Eternity#6209 helped. Project Eternity Discord Link [Here](https://discord.gg/jVWZ7ay9GQ)
 
 
 ### Builder tab
